@@ -14,6 +14,7 @@ public class Klasse
      */
     public Klasse()
     {
+    	System.out.println("Heööo");
     }
 
     // weitere Methoden
